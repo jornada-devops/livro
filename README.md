@@ -116,6 +116,7 @@ Antonio Muniz, Idealizador da Jornada DevOps
 [[Site]](https://code4.life/)
 [[Book]](https://www.amazon.com/dp/B07FNFG5LQ)
 * Carol Vilas Boas
+[[Linkedin]](https://www.linkedin.com/in/carolfvb/)
 * Eduardo Gomes
 * Eduardo Gonçalves
 * Fabiana Ravanêda
@@ -139,4 +140,11 @@ Antonio Muniz, Idealizador da Jornada DevOps
 
 # Material Extra
 
-Em breve...
+# - E-mail para Patrocinio 
+
+Bom Dia!
+Você conhece sobre a Cultura DevOps? 
+Com base nessa cultura, juntamos 33 pessoas que não se conheciam para escrever o livro Jornada DevOps, que é preparatório para a prova de certificação DevOps Professional da EXIN. 
+Chegou a hora tão esperada o lançamento do livro, ele acontecerá dia 6/6 no Centro de Convenções da SulAmerica, no Rio de Janeiro. Mas como o objetivo de colaboração, toda renda arrecadada com será revertida para instituição Aliança dos cegos:  http://www.associacaoaliancadoscegos.com.br/ então seu patrocínio é muito importante para nós. Segue em anexo nosso MídiaKit para avaliação de como sua empresa pode contribuir nesse evento lindo da comunidade.
+Venha fazer parte.
+
