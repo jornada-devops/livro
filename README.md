@@ -144,7 +144,12 @@ Antonio Muniz, Idealizador da Jornada DevOps
 
 Bom Dia!
 Você conhece sobre a Cultura DevOps? 
+
 Com base nessa cultura, juntamos 33 pessoas que não se conheciam para escrever o livro Jornada DevOps, que é preparatório para a prova de certificação DevOps Professional da EXIN. 
+
 Chegou a hora tão esperada o lançamento do livro, ele acontecerá dia 6/6 no Centro de Convenções da SulAmerica, no Rio de Janeiro. Mas como o objetivo de colaboração, toda renda arrecadada com será revertida para instituição Aliança dos cegos:  http://www.associacaoaliancadoscegos.com.br/ então seu patrocínio é muito importante para nós. Segue em anexo nosso MídiaKit para avaliação de como sua empresa pode contribuir nesse evento lindo da comunidade.
+
 Venha fazer parte.
+
+Equipe Jornada DevOps
 
