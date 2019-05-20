@@ -53,7 +53,7 @@ Antonio Muniz, Idealizador da Jornada DevOps
 [[Linkedin]](https://www.linkedin.com/company/brq/)
 * ProMove
 [[Site]](https://www.promovesolucoes.com/)
-* Plataform Builder
+* Platform Builders
 [[Site]](https://platformbuilders.io/en/)
 * Project Study
 * DNA Ágil
