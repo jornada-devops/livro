@@ -15,18 +15,22 @@ Fez um texto massa e quer adicionar neste documento? Ou teve uma ideia nova para
 
 ## Pedido de Apoio/Patrocínio
 
-- Lançamento Livro
-  ````
-  Bom Dia!
-  Você conhece sobre a Cultura DevOps? 
+### Exemplo 1
 
-  Com base nessa cultura, juntamos 33 pessoas que não se conheciam para escrever o livro Jornada DevOps, que é preparatório para a prova de certificação DevOps Professional da EXIN. 
+---
 
-  Chegou a hora tão esperada do lançamento do livro. Ele acontecerá dia 6 de junho no Centro de Convenções da SulAmerica, no Rio de Janeiro. Mas com o objetivo de colaboração, toda renda arrecadada com será revertida para instituição Aliança dos cegos (http://www.associacaoaliancadoscegos.com.br/). Logo, seu patrocínio é muito importante para nós.
-  
-  Segue em anexo nosso MídiaKit para avaliação de como sua empresa pode contribuir nesse evento lindo da comunidade.
+Olá!
 
-  Venha fazer parte.
+Você conhece sobre a Cultura DevOps? 
 
-  Equipe Jornada DevOps
-  ````
+Com base nessa cultura, juntamos 33 pessoas que não se conheciam para escrever o livro Jornada DevOps, que é preparatório para a prova de certificação DevOps Professional da EXIN. 
+
+Chegou a hora tão esperada do lançamento do livro. Ele acontecerá dia 6 de junho no Centro de Convenções da SulAmerica, no Rio de Janeiro. Mas com o objetivo de colaboração, toda renda arrecadada com será revertida para instituição Aliança dos cegos (http://www.associacaoaliancadoscegos.com.br/). Logo, seu patrocínio é muito importante para nós.
+
+Segue em anexo nosso MídiaKit para avaliação de como sua empresa pode contribuir nesse evento lindo da comunidade.
+
+Venha fazer parte.
+
+Equipe Jornada DevOps
+
+---
