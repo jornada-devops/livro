@@ -10,7 +10,7 @@ Para ir além da leitura, participe ou ajude a organizar o próximo [Workshop Jo
 
 ---
 
-[Sobre](#sobre) | [Onde Comprar](#onde-comprar) | [Eventos](#eventos) | [Apoiadores Oficiais](#apoiadores-oficiais) | [Apoiadores da Comunidade](#apoiadores-da-comunidade) | [Autores](#autores) | [Colaboradores](#colaboradores) | [Material Extra](#material-extra)
+[Sobre](#sobre) | [Onde Comprar](#onde-comprar) | [Eventos](#eventos) | [Apoiadores](#apoiadores-oficiais) | [Autores](#autores) | [Colaboradores](#colaboradores) | [Guia Divulgação](#guia-para-divulgação) | [Material Extra](#material-extra)
 
 # Sobre
 
@@ -138,6 +138,21 @@ Antonio Muniz, Idealizador da Jornada DevOps
 * Renato Fontes Nogueira
 * Vanesa Bustamante
 
+# Guia para Divulgação
+
+Foi gerado um guia específico, neste repositório, para tratar somente deste assunto. [Mais informações aqui.](guia-divulgacao.md)
+
 # Material Extra
 
-- [Guia para divulgação do Livro Jornada DevOps](guia-divulgacao.md)
+Informações e materiais relacionados ao livro com fácil acesso para todos.
+
+* [[Site]](https://cloudplatformonline.com/2018-state-of-devops.html)
+[[PDF]](https://cloudplatformonline.com/rs/248-TPC-286/images/DORA-State%20of%20DevOps.pdf)
+2018: DORA - State of DevOps
+
+* [[Site]](https://puppet.com/resources/whitepaper/state-of-devops-report)
+[[PDF]](https://www.thinkahead.com/wp-content/uploads/2018/10/State-of-DevOps-Report.pdf)
+2018: Puppet, Splunk - State of DevOps Report
+
+* [[YouTube]](https://www.youtube.com/watch?v=ZiCw0v1K4a0)
+Radix – CMMI Case Study
