@@ -139,6 +139,7 @@ Antonio Muniz, Idealizador da Jornada DevOps
 * Mauro Pedra
 * Michelle Frasson
 * Renato Fontes Nogueira
+* Rodrigo Fittipaldi
 * Vanesa Bustamante
 
 # Guia para Divulgação
