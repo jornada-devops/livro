@@ -119,6 +119,9 @@ Antonio Muniz, Idealizador da Jornada DevOps
 [[Linkedin]](https://www.linkedin.com/in/carolfvb/)
 * Eduardo Gomes
 * Eduardo Gonçalves
+[[Linkedin]](https://www.linkedin.com/in/eduardofg87)
+[[Twitter]](https://twitter.com/eduardofg87)
+[[Site]](https://eduardofg.dev/)
 * Fabiana Ravanêda
 * Fabrício Guimarães
 * Fernanda Belmont Reis
