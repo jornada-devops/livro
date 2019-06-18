@@ -24,6 +24,7 @@ Antonio Muniz, Idealizador da Jornada DevOps
 
 # Onde Comprar
 
+* [Amazon](https://www.amazon.com.br/Jornada-Devops-Tecnologia-Software-Qualidade/dp/8574529273/)
 * [Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops/)
 
 # Eventos
